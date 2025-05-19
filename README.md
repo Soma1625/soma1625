@@ -37,7 +37,7 @@
 
 <p align="left">
   <a href="mailto:somashekarn2004@Gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/somashekharn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="[www.linkedin.com/in/somashekharn](https://www.linkedin.com/in/somashekharn/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white"/></a>
 </p>
 
